@@ -1,1 +1,1 @@
-third file
+Third file will be the shared file. Each can update their own story.
